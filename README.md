@@ -52,9 +52,9 @@ Se generará un archivo key.key y config.json que deben colocarse en la misma ru
 
 Paso 4: Ejecutar la API y el Dashboard
 Ejecuta la API:
-python app.py
+python appV2.py
 En otro terminal, ejecuta el dashboard:
-python dashboard.py
+python dashboardV74.py
 
 
 
